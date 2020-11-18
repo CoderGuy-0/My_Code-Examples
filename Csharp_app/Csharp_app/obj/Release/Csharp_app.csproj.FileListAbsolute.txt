@@ -1,0 +1,9 @@
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Release\Csharp_app.exe.config
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Release\Csharp_app.exe
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Release\Csharp_app.pdb
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.Form1.resources
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.Properties.Resources.resources
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.csproj.GenerateResource.cache
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.csproj.CoreCompileInputs.cache
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.exe
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Release\Csharp_app.pdb

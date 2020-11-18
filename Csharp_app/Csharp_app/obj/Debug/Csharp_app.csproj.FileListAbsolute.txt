@@ -1,0 +1,10 @@
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Debug\Csharp_app.exe.config
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Debug\Csharp_app.exe
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\bin\Debug\Csharp_app.pdb
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.csprojAssemblyReference.cache
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.Form1.resources
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.Properties.Resources.resources
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.csproj.GenerateResource.cache
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.csproj.CoreCompileInputs.cache
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.exe
+C:\Users\Karri\source\repos\Csharp_app\Csharp_app\obj\Debug\Csharp_app.pdb
