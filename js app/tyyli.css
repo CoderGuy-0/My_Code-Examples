@@ -1,0 +1,18 @@
+h1 { /*header 1 eli siis otsikko (isoin koko)
+	etenee h1,h2,h3,h4,h5,h6 (isoimmasta pienimpään)*/
+	color: #333333;
+	
+}
+p { /*paragraph suomeksi siis kappale*/
+	color: #333333;
+}
+
+body {
+	background-color:#f2f2f2 !important;
+}
+
+#padTut {
+	cursor: move;
+	width: 859px;
+	height: 579px;
+}
